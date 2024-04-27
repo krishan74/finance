@@ -1,0 +1,39 @@
+Received: (qmail 8066 invoked by uid 30297); 13 Oct 2020 04:35:35 -0000
+Received: from unknown (HELO p3plibsmtp01-14.prod.phx3.secureserver.net) ([72.167.238.230])
+          (envelope-sender <gaurav@fixmyfinancials.in>)
+          by p3plsmtp17-04-25.prod.phx3.secureserver.net (qmail-1.03) with SMTP
+          for <gaurav@fixmyfinancials.in>; 13 Oct 2020 04:35:35 -0000
+Received: from p3plsmtpa07-06.prod.phx3.secureserver.net ([173.201.192.235])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 256/256 bits)
+	(Client did not present a certificate)
+	by CMGW with ESMTP
+	id SC2Akt4GT8EhOSC2AkvHbt; Mon, 12 Oct 2020 21:35:35 -0700
+X-CMAE-Analysis: v=2.3 cv=XNJOtjpE c=1 sm=1 tr=0 cx=a_idp_nop
+ a=EHwkbiLoMwnhk/DkVzD2vQ==:117 a=iZB/cJ38cffPzO76mFN/NA==:17
+ a=HpEJnUlJZJkA:10 a=DBwwDor5xuMA:10 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10
+ a=afefHYAZSVUA:10 a=AL94_gPbdGwA:10 a=5KLPUuaC_9wA:10 a=ZZnuYtJkoWoA:10
+ a=o8vTjCv1nhgqmWcrq9kA:9 a=QEXdDO2ut3YA:10
+Received: from AKKIPC ([223.235.137.84])
+	by :SMTPAUTH: with ESMTPSA
+	id SC25kcwAH9adeSC29kDgBd; Mon, 12 Oct 2020 21:35:34 -0700
+X-CMAE-Analysis: v=2.3 cv=MO4eZ/Rl c=1 sm=1 tr=0
+ a=iZB/cJ38cffPzO76mFN/NA==:117 a=iZB/cJ38cffPzO76mFN/NA==:17
+ a=HpEJnUlJZJkA:10 a=DBwwDor5xuMA:10 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10
+ a=AL94_gPbdGwA:10 a=5KLPUuaC_9wA:10 a=ZZnuYtJkoWoA:10
+ a=o8vTjCv1nhgqmWcrq9kA:9 a=QEXdDO2ut3YA:10
+X-SECURESERVER-ACCT: gaurav@fixmyfinancials.in
+From: Microsoft Outlook <gaurav@fixmyfinancials.in>
+To: =?utf-8?B?R2F1cmF2?= <gaurav@fixmyfinancials.in>
+Subject: =?utf-8?B?TWljcm9zb2Z0IE91dGxvb2sgVGVzdCBNZXNzYWdl?=
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-CMAE-Envelope: MS4wfEVKXey+Yn9pwsZ7nWYqMzKCqh9ojCSRWtWuqgBqu4ZvTtfqyLwwNQT/8NrsZykcuYTSiiKjvve8Y9ufkdcVndNz6WhHqDW+vUkN2mgqzI0PoPNSFnFu
+ g8sf5r0wRfeK9+v94Hezhs77sxYpNPKUIn8m9422vZAqh8tltS5s5HX58YyB4TRV/dzkvIVe2+l+zoaIHd76gifY1nT9A6zIReyIClc683SsmZjtv9seaqGn
+X-Nonspam: None
+
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+
+

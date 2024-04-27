@@ -1,0 +1,218 @@
+
+body {
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+.custom-navbar {
+	background-color: #37444c;
+	height: 100vh;
+	text-align: center;
+	padding: 0;
+}
+.companyName {
+	text-transform: uppercase;
+	font-family: impact;
+
+}	
+.custom-navbar h3 {
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}	
+.navImage {
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 150px;
+    max-height: 150px;
+}
+.topHeader {
+	background-color: gainsboro;
+	padding: 10px;
+	text-align: right;
+}
+.topHeader span {
+    font-family: fantasy;
+}
+
+#dasboardNavigationBar {
+	margin-top: 50px;
+}
+
+
+#dasboardNavigationBar ul {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+#dasboardNavigationBar li {
+    list-style-type: none;
+    margin-bottom: 5px;
+    color: #fff;
+    padding: 5px;
+    padding-left: 35px;
+    text-align: left;
+    cursor: pointer;
+}	
+
+#dasboardNavigationBar li:hover {
+	background-color: gainsboro;
+	color: black;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+.contentSection {
+	width: calc(100% - 15px);
+}
+
+.contentSectionInner {
+	height: calc(100vh - 120px); 
+	overflow: scroll;
+	padding: 30px;
+}
+
+.contentSectionFooterInner {
+	margin-left: 0px; 
+	background-color: gainsboro; 
+	height: 60px;
+}
+
+.contentSectionFooterInner h3 {
+	text-align: center;
+    font-size: 18px;
+    padding-top: 18px;
+}
+
+
+/*pankaj did this changes from here*/
+@media screen and (min-width: 767.5px)   
+{  /*// All Device Except Mobile.*/
+.toggleButtonDiv{
+	display:none;
+}
+
+	#dasboardNavigationBar {
+	    display: block;
+	}
+}
+
+
+
+
+
+
+
+
+
+/*for ipad pro landscape*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) 
+
+{body{
+
+	height:100%;
+	-webkit-overflow-scrolling:touch;
+	overflow:scroll;
+}
+
+#dasboardNavigationBar li{
+	margin:0;
+	padding-left:20px;
+	text-align:left;
+
+}
+
+
+}
+
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+   {
+
+
+	#dasboardNavigationBar li {
+	    margin: 0;
+	    padding-left: 40px;
+	    text-align: left;
+	}
+
+}
+
+
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait){
+.allOptions h3 {
+    text-align: center!important;
+    vertical-align: middle!important;
+     line-height: 0px!important; 
+    position: relative!important;
+    top: 50px!important;
+	text-transform:capitalize!important; 
+    font-size: 18px!important;
+    
+}
+}
+
+@media screen and (max-width: 767.5px)   {
+
+body{
+
+	height:100%;
+	-webkit-overflow-scrolling:touch;
+	overflow:scroll;
+}
+.toggleButtonDiv{
+	text-align:right;
+	padding: 0px 20px 20px 0px;
+	margin:0;
+
+}	
+
+#dasboardNavigationBar i{
+	display:none;
+}
+
+nav#dasboardNavigationBar {
+font-weight:500;
+}
+
+#dasboardNavigationBar li{
+	margin:0;
+	padding:20px 0 20px 0px ;
+	text-align:center!important;
+
+}
+
+.topHeader {
+	display:none;}
+
+	.contentSectionFooterInner h3{
+		font-size:12px;
+	}
+
+
+.custom-navbar {
+    height: auto;
+}
+
+.contentSectionInner {
+    text-align: center;
+}
+}
+
+
+
+/*codes ended here */
